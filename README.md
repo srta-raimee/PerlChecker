@@ -34,7 +34,7 @@ This Python script checks the syntax of Perl files within a specified directory 
 2. Place the script in the directory you wish to analyze.
 3. Execute the script using Python:
    ```bash
-   python script_name.py
+   python perlchecker.py
    ```
 
 ### **Output**
